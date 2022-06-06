@@ -5,7 +5,7 @@
 </a>
 
 <div style="display: inline_block">
-    <img align="" height="149em" alt="Cidos" src="https://media1.giphy.com/media/jkSvCVEXWlOla/giphy.gif" style="border-radius: 5px;">
+    <img align="" height="149em" alt="Coding..." src="https://media1.giphy.com/media/jkSvCVEXWlOla/giphy.gif" style="border-radius: 5px;">
 </div>
 
 <br/>
