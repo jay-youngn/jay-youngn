@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-<a href="https://github.com/ginnerpeace" alt="ginnerpeace's github stats">
-    <img align="" height="139px" src="https://github-readme-stats.vercel.app/api?username=ginnerpeace&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula&locale=en" />
-    <img align="" height="139px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginnerpeace&hide_title=true&hide_border=true&layout=compact&theme=nord&locale=en" />
+<a href="https://github.com/cidosx" alt="cidosx's github stats">
+    <img align="" height="139px" src="https://github-readme-stats.vercel.app/api?username=cidosx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula&locale=en" />
+    <img align="" height="139px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidosx&hide_title=true&hide_border=true&layout=compact&theme=nord&locale=en" />
 </a>
 
+<div style="display: inline_block">
+    <img height="180em" alt="Erica-yoda" src="https://media1.giphy.com/media/jkSvCVEXWlOla/giphy.gif">
+</div>
+
 <!--
-**ginnerpeace/ginnerpeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cidosx/cidosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
