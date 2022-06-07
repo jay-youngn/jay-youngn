@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/cidosx" alt="cidosx's github stats">
-    <img align="left" height="151em" src="https://github-readme-stats.vercel.app/api?username=cidosx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula&locale=en" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cidosx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula&locale=en">
+    <img align="left" height="151em" src="https://github-readme-stats.vercel.app/api?username=cidosx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=default&locale=en" />
+  </picture>
 </a>
 
 <div style="display: inline_block">
