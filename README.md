@@ -13,12 +13,8 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cidosx/cidosx/blob/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github.com/cidosx/cidosx/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!-- ![Snake animation](https://github.com/cidosx/cidosx/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation light](https://github.com/cidosx/cidosx/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://github.com/cidosx/cidosx/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **cidosx/cidosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
