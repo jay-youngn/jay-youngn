@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://github.com/cidosx" alt="cidosx's github stats">
+<a href="https://github.com/jay-youngn" alt="JayYoungn's github stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cidosx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula&locale=en">
-    <img align="left" height="151em" src="https://github-readme-stats.vercel.app/api?username=cidosx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=default&locale=en" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jay-youngn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula&locale=en">
+    <img align="left" height="151em" src="https://github-readme-stats.vercel.app/api?username=jay-youngn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=default&locale=en" />
   </picture>
 </a>
 
@@ -13,11 +13,11 @@
 
 <br/>
 
-![Snake animation light](https://github.com/cidosx/cidosx/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation dark](https://github.com/cidosx/cidosx/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation light](https://github.com/jay-youngn/jay-youngn/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://github.com/jay-youngn/jay-youngn/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--
-**cidosx/cidosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jay-youngn/jay-youngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
